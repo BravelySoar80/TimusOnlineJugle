@@ -1,12 +1,11 @@
-﻿using System;
-
+﻿
 namespace TimusOnlineJugle
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Volume1.Problem1009.ProMain(args);
         }
     }
 }
